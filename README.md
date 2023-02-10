@@ -1,13 +1,13 @@
 # Quantum-Entaglement
 
-Quantum entanglement is used in quantum wireless technology to establish secure communication between two parties. The basic idea is to use entangled particles to create a shared random string of bits that can be used as a key for encoding and decoding messages.
+Quantum entanglement is used in Quantum Wireless Technology to establish secure communication between the two parties. The basic idea is to use entangled particles to create a shared random string of bits that can be used as a key for encoding and decoding messages.
 
 Here's how it works:
 
-Preparation: The sender and receiver share a source of entangled particles, such as photons. The photons are entangled in such a way that the state of one photon is correlated with the state of its partner.
-Key Generation: The sender and receiver both measure the state of their respective entangled photons, which generates a random string of bits. These bits form the key that will be used to encode and decode messages.
-Encoding: The sender uses the key to encode a message, which is then transmitted to the receiver.
-Decoding: The receiver uses the same key to decode the message, since only the sender and receiver know the key and are able to use it to encode and decode messages.
+1. Preparation: The sender and receiver share a source of entangled particles, such as photons. The photons are entangled in such a way that the state of one photon is correlated with the state of its partner.
+2. Key Generation: The sender and receiver both measure the state of their respective entangled photons, which generates a random string of bits. These bits form the key that will be used to encode and decode messages.
+3. Encoding: The sender uses the key to encode a message, which is then transmitted to the receiver.
+4. Decoding: The receiver uses the same key to decode the message, since only the sender and receiver know the key and are able to use it to encode and decode messages.
 The use of entangled particles in this process ensures the security of the key and the privacy of the message. Because of the laws of quantum mechanics, it is impossible for an eavesdropper to obtain any information about the key or the message without introducing detectable errors.
 
 In this way, quantum entanglement provides a way to establish secure communication in a wireless setting, without the need for a secure physical connection. This makes it particularly useful for situations where a secure communication link is needed but a wired connection is not practical or available.
